@@ -1,0 +1,20 @@
+{
+  "store": "Global Electronics",
+  "categories": [
+    {
+      "category_id": 1,
+      "name": "Computers",
+      "products": [
+        { "id": 501, "name": "Gaming Laptop", "price": 1500, "stock": 30 },
+        { "id": 502, "name": "Ultrabook", "price": 1200, "stock": 40 }
+      ]
+    },
+    {
+      "category_id": 2,
+      "name": "Accessories",
+      "products": [
+        { "id": 503, "name": "Wireless Mouse", "price": 25, "stock": 200 }
+      ]
+    }
+  ]
+}
